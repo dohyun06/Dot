@@ -20,7 +20,7 @@ class App {
         window.addEventListener('resize', this.resize.bind(this), false);
         this.resize();
 
-        this.radius = 5;
+        this.radius = 4;
         this.pixelSize = 10;
         this.dots = [];
 

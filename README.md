@@ -1,2 +1,7 @@
 # Dot
- 캔버스를 이용해 이미지를 도트화
+
+Convert Images To Dots Using Canvas
+
+## Link
+
+https://developerdock.github.io/Dot/
