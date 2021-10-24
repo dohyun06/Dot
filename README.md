@@ -4,4 +4,4 @@ Convert Images To Dots Using Canvas
 
 ## Link
 
-https://developerdock.github.io/Dot/
+https://dohyun06.github.io/Dot/
